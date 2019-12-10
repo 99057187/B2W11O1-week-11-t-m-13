@@ -1,0 +1,153 @@
+#title{
+	margin-left:700px;
+}
+#description{
+	margin-left:200px;
+}
+#button1{
+	position:absolute;
+	top:270px;
+	left:570px;
+	padding:5px;
+}
+#button2{
+	position:absolute;
+	top:270px;
+	left:700px;
+	padding:5px;
+}
+#button3{
+	position:absolute;
+	top:270px;
+	left:830px;
+	padding:5px;
+}
+#inventoryItem{
+	position:absolute;
+	top:300px;
+	left:0px;
+}
+#geldzak{
+	width: 50px;
+	height:50px;
+	position: absolute;
+	top:555px;
+	left:300px;
+}
+#wijzeman{
+	width: 74px;
+	height:118px;
+	position: absolute;
+	top:551px;
+	left:1400px;
+}
+#zwaard{
+	position:absolute;
+	top:470px;
+	left:840px; 
+}
+#zwaardInventory{
+	position:absolute;
+	top:304px;
+	left:4px;
+	width:42px;
+	height:42px; 
+}
+#schild{
+	position:absolute;
+	top:470px;
+	left:1010px;
+}
+#schildInventory{
+	position:absolute;
+	top:352px;
+	left:4px;
+	width:42px;
+	height:42px;
+}
+#boog{
+	position:absolute;
+	top:470px;
+	left:1180px;
+}
+#boogInventory{
+	position:absolute;
+	top:400px;
+	left:4px;
+	width:42px;
+	height:42px;
+}
+#zwaardvechter{
+	position:absolute;
+	top:300px;
+	left:400px;
+}
+#archer{
+	position:absolute;
+	top:300px;
+	left:800px;
+}
+#brugtrol{
+	position:absolute;
+	top:500px;
+	left:700px;
+}
+#bergtrol{
+	position:absolute;
+	top:500px;
+	left:700px;
+}
+#bergtrolDood{
+	position:absolute;
+	top:500px;
+	left:700px;
+}
+#janWillem{
+	position:absolute;
+	top:400px;
+	left:700px;
+}
+#geslotenkist{
+	position:absolute;
+	top:430px;
+	left:850px;
+	width:42px;
+	height:42px;
+}
+#openkist{
+	position:absolute;
+	top:430px;
+	left:850px;
+	width:42px;
+	height:42px;
+}
+#krijgerLevel3{
+	position:absolute;
+	top:355px;
+	left:900px;	
+}
+#archerLevel3{
+	position:absolute;
+	top:355px;
+	left:900px;	
+}
+#stefano{
+	position:absolute;
+	top:350px;
+	left:700px;
+}
+#endKrijgerLevel3{
+	position:absolute;
+	top:600px;
+	left:700px;
+}
+#endArcherLevel3{
+	position:absolute;
+	top:600px;
+	left:700px;
+}
+#stefanoDood{
+	position:absolute;
+	top:350px;
+	left:800px;
+}
